@@ -1,0 +1,10 @@
+.Create-todo-button {
+    width: 115px;
+    height: 34px;
+    border-radius: 10px;
+    background: #FDA117;
+    color: aliceblue;
+    font-size: medium;
+    border: none;
+    cursor: pointer;
+}
