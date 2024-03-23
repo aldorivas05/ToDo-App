@@ -43,3 +43,11 @@
     margin: 1%;
     cursor: pointer;
 }
+
+
+@media screen and (max-width: 767px) {
+    .Todo-Item {
+        width: 300px;
+    }
+    
+}

@@ -1,10 +1,17 @@
-input {
+.todo-search-container {
     display: flex;
     align-items: center;
+    justify-content: center;
+
+}
+.Todosearch {
     width: 280px;
     height: 39px;
     border-radius: 10px;
     background: #D9D9D9;
     align-content: center;
     border: none;
+    padding: 0 0 0 1rem;
+    color: black;
+   
 }
